@@ -11,4 +11,5 @@ export default defineConfig({
     assetsInlineLimit: 0,
   },
   assetsInclude: ['**/*.jpg', '**/*.jpeg', '**/*.png', '**/*.webp'],
+  base: '/'
 });
